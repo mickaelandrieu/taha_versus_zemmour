@@ -1,0 +1,13 @@
+matplotlib==3.5.2
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.2
+scikit-learn==1.1.0
+scipy==1.8.0
+seaborn==0.11.2
+textblob==0.17.1
+tweepy==4.9.0
+wordcloud==1.8.1
+pycountry==22.3.5
+plotly==5.8
+nbformat==5.4
